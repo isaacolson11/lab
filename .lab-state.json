@@ -18,5 +18,7 @@
   "testOrgId": "f65ecc5e-a4d0-f111-be88-7ced8d714624",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "pluginsScaffolded": true,
+  "logicSolutionScaffolded": true
 }
