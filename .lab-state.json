@@ -7,12 +7,13 @@
   "repo": "isaacolson11/lab",
   "mainRulesetId": 25828841,
   "mainRulesetName": "lab-main-protection",
-  "devEnvUrl": "https://wm-dev-5481.crm.dynamics.com",
-  "devEnvId": "5e0f5340-5ba7-ed83-b3c0-4044fe03bf13",
-  "devOrgId": "f6bf98c2-98d0-f111-a04e-6045bd003102",
+  "devEnvUrl": "https://warehousedev5481.crm.dynamics.com",
+  "devEnvId": "7049d435-4be2-eedd-adf5-e4e67e328f18",
+  "devOrgId": "4d98aee0-a0d0-f111-be85-6045bd050531",
   "devProfile": "dev",
   "testEnvUrl": "https://wm-test-5481.crm.dynamics.com",
   "testProfile": "test",
-  "testEnvId": "",
-  "appId": "b9bb2bf5-dcd4-452b-b335-03a35bbd86d1"
+  "testEnvId": "3a1664f5-f2a2-e683-b99d-de89ea1b3019",
+  "appId": "b9bb2bf5-dcd4-452b-b335-03a35bbd86d1",
+  "testOrgId": "f65ecc5e-a4d0-f111-be88-7ced8d714624"
 }
